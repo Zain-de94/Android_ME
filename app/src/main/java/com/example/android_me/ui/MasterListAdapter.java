@@ -41,6 +41,8 @@ public class MasterListAdapter extends BaseAdapter {
         return 0;
     }
 
+
+
     /**
      * Creates a new ImageView for each item referenced by the adapter
      */
